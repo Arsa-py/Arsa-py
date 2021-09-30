@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arsa-py
 - 👀 I’m interested in Python programming, GIS, Web Developing...
-- 🌱 I’m currently learning Django web framework, HTML, CSS, Bootstrap, JS, jQuery...
-- 💞️ I’m looking to collaborate on some small projects, which include Python programming language.
+- 🌱 I’m currently learning Django and Flask web frameworks, HTML, CSS, Bootstrap, JS, jQuery...
+- 💞️ I’m looking to collaborate on some small projects for now, which include Python programming language.
 - 📫 How to reach me ... https://github.com/Arsa-py
 
 <!---
