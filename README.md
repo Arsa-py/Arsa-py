@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arsa-py
-- 👀 I’m interested in Python programming, GIS, Web Developing.
+- 👀 I’m interested in Python programming, GIS, Web Development.
 - 💞️ I’m looking to collaborate on projects, which include Python programming language and Django web framework.
 - 📫 How to reach me ... arsenije.vujasinovic@gmail.com
 
